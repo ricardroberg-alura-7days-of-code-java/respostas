@@ -29,7 +29,7 @@ class SevenDaysOfCodeJavaDay1 {
 }
 ```
 
-#day02
+# day02
 
 ```java
 import java.net.URI;
